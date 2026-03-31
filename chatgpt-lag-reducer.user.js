@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ChatGPT 長對話減載
 // @namespace    https://github.com/ValorVie/ChatGPTFix
-// @version      0.1.0.23
+// @version      0.1.0.1
 // @description  保留最近 N 則訊息，支援三態 compact panel 與 Load more / Load all
 // @match        https://chatgpt.com/*
 // @match        https://chat.openai.com/*

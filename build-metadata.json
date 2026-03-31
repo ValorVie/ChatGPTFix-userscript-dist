@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0.23",
+  "version": "0.1.0.1",
   "baseVersion": "0.1.0",
   "buildRef": "refs/heads/main",
-  "commitSha": "abcdef1234567890",
-  "shortSha": "abcdef1",
-  "runNumber": 23,
-  "runId": "999999",
-  "builtAt": "2026-03-31T03:18:58.762Z",
-  "artifactName": "userscript-0.1.0.23-abcdef1"
+  "commitSha": "225f9cc42e989d26fd40a833a26cdff574f76d3e",
+  "shortSha": "225f9cc",
+  "runNumber": 1,
+  "runId": "23777287914",
+  "builtAt": "2026-03-31T03:21:43.002Z",
+  "artifactName": "userscript-0.1.0.1-225f9cc"
 }
