@@ -2,7 +2,7 @@
 
 This repository is an automated distribution mirror for `ValorVie/ChatGPTFix`.
 
-- Current version: `0.1.0.1`
-- Source commit: `225f9cc`
+- Current version: `0.1.0.2`
+- Source commit: `12fdd9f`
 - Install URL: https://raw.githubusercontent.com/ValorVie/ChatGPTFix-userscript-dist/main/chatgpt-lag-reducer.user.js
 - Do not edit files in this repository manually.
